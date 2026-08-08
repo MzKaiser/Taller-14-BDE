@@ -24,4 +24,4 @@ This repository demonstrates the critical performance impact of spatial indexing
 * Conducted performance analysis comparing the PostGIS bounding box operator (`&&`)[cite: 3] against exact geometry intersection calculations (`ST_Intersects`)[cite: 3] to optimize query times for specific localities (e.g., 'OLAYA' neighborhood)[cite: 3].
 
 ## 🔗 Presentation
-Check out the slides for a visual breakdown of the spatial indexing concepts: [https://docs.google.com/presentation/d/1piX9UPCMsLtY1jNkJpQUujAkaTIdqln8kA3db7pgQ84/edit?usp=sharing]
+Check out the slides for a visual breakdown of the spatial indexing concepts: [Link to your Google Slides here](https://docs.google.com/presentation/d/1piX9UPCMsLtY1jNkJpQUujAkaTIdqln8kA3db7pgQ84/edit?usp=sharing)
